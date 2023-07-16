@@ -1,0 +1,92 @@
+.Board{
+  /* height:600px; */
+  width: 600px;
+  border: 1px solid black; 
+  background-color:palevioletred;
+  
+  margin: 0px auto;
+   margin-top: 20px;
+  
+}
+.container{
+  height: 400px;
+  width:400px;
+  background-color: antiquewhite;
+  margin: 0px auto;
+  /* margin-top:60px; */
+  background: url("https://media.istockphoto.com/id/531466314/vector/snakes-and-ladders.jpg?s=612x612&w=0&k=20&c=YYRwkxtVxAXrYV7kFCHKW4h0SHFS4sSSoaj-s9OeHF4=");
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  box-shadow: 20px 20px 20px pink;
+}
+
+.row{
+  height: 40px;
+  width: 400px;
+
+  box-sizing: border-box;
+}
+.col{
+  height:40px;
+  width:40px;
+  float: left;
+  box-sizing: border-box;
+}
+.header{
+  height: 80px;
+  width: 400px;
+  /* background: red; */
+  /* border:2px solid black; */
+  margin: 0  auto;
+  /* margin-top: 50px; */
+  box-shadow: 10px 10px 10px #aaaaaa;
+}
+
+
+.div1 img{
+  float:left;
+
+}
+.div2 img{
+  float:right;
+}
+.Dice{
+  height: 40px;
+  width: 40px;
+}
+img{
+  height: 40px;
+  width: 40px;
+}
+.dice2{
+  margin-top:40px;
+}
+.tokans{
+  box-sizing: border-box;
+  background-color: yellowgreen;
+   
+}
+
+.text1{
+  color:blue;
+}
+
+.text2{
+  color:yellow;
+}
+
+.text3{
+  color:brown;
+}
+
+.text4{
+  color:blueviolet;
+}
+
+.text5{
+  color:aqua;
+}
+
+.text6{
+  color:black;
+}
